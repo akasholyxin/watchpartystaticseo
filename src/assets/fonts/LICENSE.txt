@@ -1,0 +1,1 @@
+Plus Jakarta Sans: SIL Open Font License 1.1 (https://github.com/tokotype/PlusJakartaSans). Static cuts from Fontsource, used only to render social preview images.
